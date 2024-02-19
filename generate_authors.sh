@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define authors
-author1="Faith Omondi  <faithomondi1331@gmail.com>"
+author1="Faith Akinyi <faithomondi1331@gmail.com>"
 author2="Emma Ogutu <atisemma26@gmail.com>"
 
 # Output header
