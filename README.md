@@ -83,9 +83,9 @@ EOF  help  quit
 
 4. All tests should aldo pass this command in non-interactive mode:
 
-$ echo "python3 -m unittest discover tests" | bash
- 
-## Contributors
+$ echo "python3 -m unittest discover 
+
+### Contributors
 
 - Faith Akinyi <faithomondi1331@gmail.com>
-- Emma Ogutu <atisemma26@gmail.com>
+- Emma Ogutu <atisemma27@gmail.com>
